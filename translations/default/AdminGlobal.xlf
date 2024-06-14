@@ -1170,12 +1170,12 @@
       <trans-unit id="52f5e0bc3859bc5f5e25130b6c7e8881">
         <source>Position</source>
         <target>Position</target>
-        <note>Line: 323</note>
+        <note>Line: 319</note>
       </trans-unit>
       <trans-unit id="5047b1c6030fe3bc886816e23bb9bbda">
         <source>Attribute Group ID</source>
         <target>Attribute Group ID</target>
-        <note>Line: 317</note>
+        <note>Line: 313</note>
       </trans-unit>
     </body>
   </file>
@@ -2530,6 +2530,15 @@ Comment: Display generated client secrets passed by session</note>
         <source>Current store</source>
         <target>Current store</target>
         <note>Line: 83</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Resources/views/Admin/TwigTemplateForm/prestashop_ui_kit_base.html.twig" source-language="en-US" target-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="5180225574daa470582912c7d340c419">
+        <source>No picture</source>
+        <target>No picture</target>
+        <note>Line: 1336</note>
       </trans-unit>
     </body>
   </file>

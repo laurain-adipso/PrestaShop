@@ -1055,12 +1055,12 @@
       <trans-unit id="694e8d1f2ee056f98ee488bdc4982d73">
         <source>Quantity</source>
         <target>Quantity</target>
-        <note>Line: 731</note>
+        <note>Line: 734</note>
       </trans-unit>
       <trans-unit id="24eb41ae265b268c0ce14e1fef872399">
         <source>Low stock alert</source>
         <target>Low stock alert</target>
-        <note>Line: 714</note>
+        <note>Line: 717</note>
       </trans-unit>
     </body>
   </file>

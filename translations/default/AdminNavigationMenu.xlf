@@ -55,11 +55,6 @@
         <target>Advanced Parameters</target>
         <note>Line: 33</note>
       </trans-unit>
-      <trans-unit id="914419aa32f04011357d3b604a86d7eb">
-        <source>Carrier</source>
-        <target>Carrier</target>
-        <note>Line: 38</note>
-      </trans-unit>
       <trans-unit id="65b7eaeb9ba4e9903f82297face9f7cd">
         <source>Cart Rules</source>
         <target>Cart Rules</target>
@@ -1079,12 +1074,22 @@ Comment: subtab</note>
       </trans-unit>
     </body>
   </file>
-  <file original="src/PrestaShopBundle/Controller/Admin/Improve/Shipping/CarriersController.php" source-language="en-US" target-language="en" datatype="plaintext">
+  <file original="src/PrestaShopBundle/Controller/Admin/Improve/Shipping/CarrierController.php" source-language="en-US" target-language="en" datatype="plaintext">
     <body>
       <trans-unit id="1d6af794b2599c1407a83029a09d1ecf">
         <source>Carriers</source>
         <target>Carriers</target>
-        <note>Line: 89</note>
+        <note>Line: 98</note>
+      </trans-unit>
+      <trans-unit id="914419aa32f04011357d3b604a86d7eb">
+        <source>Carrier</source>
+        <target>Carrier</target>
+        <note>Line: 167</note>
+      </trans-unit>
+      <trans-unit id="c859d4cf251409ec72d0f1f6ab825366">
+        <source>New Carrier</source>
+        <target>New Carrier</target>
+        <note>Line: 142</note>
       </trans-unit>
     </body>
   </file>

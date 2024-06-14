@@ -131,16 +131,6 @@
   </file>
   <file original="controllers/admin/AdminCarrierWizardController.php" source-language="en-US" target-language="en" datatype="plaintext">
     <body>
-      <trans-unit id="dde695268ea519ababd83f0ca3d274fc">
-        <source>Transit time</source>
-        <target>Transit time</target>
-        <note>Line: 219</note>
-      </trans-unit>
-      <trans-unit id="c8b462f779749d2e27abed2e9501b2bd">
-        <source>Speed grade</source>
-        <target>Speed grade</target>
-        <note>Line: 228</note>
-      </trans-unit>
       <trans-unit id="780c462e85ba4399a5d42e88f69a15ca">
         <source>Billing</source>
         <target>Billing</target>
@@ -156,11 +146,6 @@
         <target>Disable carrier</target>
         <note>Line: 368</note>
       </trans-unit>
-      <trans-unit id="de62775a71fc2bf7a13d7530ae24a7ed">
-        <source>General settings</source>
-        <target>General settings</target>
-        <note>Line: 87</note>
-      </trans-unit>
       <trans-unit id="756eb8cebeb953f5ae47235ff2e183b5">
         <source>Shipping locations and costs</source>
         <target>Shipping locations and costs</target>
@@ -170,16 +155,6 @@
         <source>Size, weight, and group access</source>
         <target>Size, weight, and group access</target>
         <note>Line: 93</note>
-      </trans-unit>
-      <trans-unit id="c91e596246bbf8fdff9dae7b349d71d9">
-        <source>Carrier name</source>
-        <target>Carrier name</target>
-        <note>Line: 208</note>
-      </trans-unit>
-      <trans-unit id="0979779c4569141b98591d326d343ec2">
-        <source>Tracking URL</source>
-        <target>Tracking URL</target>
-        <note>Line: 241</note>
       </trans-unit>
       <trans-unit id="829c7cc5ed48e11df7ac9b05e236a12c">
         <source>Add handling costs</source>
@@ -297,6 +272,39 @@
         <source>Delay</source>
         <target>Delay</target>
         <note>Line: 113</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Form/Admin/Improve/Shipping/Carrier/CarrierType.php" source-language="en-US" target-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="de62775a71fc2bf7a13d7530ae24a7ed">
+        <source>General settings</source>
+        <target>General settings</target>
+        <note>Line: 53</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/PrestaShopBundle/Form/Admin/Improve/Shipping/Carrier/GeneralSettings.php" source-language="en-US" target-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="dde695268ea519ababd83f0ca3d274fc">
+        <source>Transit time</source>
+        <target>Transit time</target>
+        <note>Line: 54</note>
+      </trans-unit>
+      <trans-unit id="c8b462f779749d2e27abed2e9501b2bd">
+        <source>Speed grade</source>
+        <target>Speed grade</target>
+        <note>Line: 66</note>
+      </trans-unit>
+      <trans-unit id="c91e596246bbf8fdff9dae7b349d71d9">
+        <source>Carrier name</source>
+        <target>Carrier name</target>
+        <note>Line: 46</note>
+      </trans-unit>
+      <trans-unit id="0979779c4569141b98591d326d343ec2">
+        <source>Tracking URL</source>
+        <target>Tracking URL</target>
+        <note>Line: 84</note>
       </trans-unit>
     </body>
   </file>
